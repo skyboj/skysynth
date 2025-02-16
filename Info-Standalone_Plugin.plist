@@ -8,11 +8,11 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>com.yourcompany.Synth</string>
+    <string>com.skyboj.SkySynth</string>
     <key>CFBundleName</key>
-    <string>Synth</string>
+    <string>SkySynth</string>
     <key>CFBundleDisplayName</key>
-    <string>Synth</string>
+    <string>SkySynth</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleSignature</key>
